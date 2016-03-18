@@ -6,7 +6,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["david@heroku.com", "jd@heroku.com", "richard@heroku.com"]
   gem.description   = %q{Sets Rails to log to stdout}
   gem.summary       = %q{Overrides Rails' built in logger to send all logs to stdout}
-  gem.homepage      = "https://github.com/heroku/rails_stdout_logging"
+  gem.homepage      = "https://github.com/paulrnash/rails_stdout_logging"
   gem.license       = 'MIT'
 
   gem.executables   = `git ls-files -- bin/*`.split("\n").map{ |f| File.basename(f) }
