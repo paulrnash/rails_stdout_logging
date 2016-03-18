@@ -2,7 +2,7 @@
 
 Rails gem to configure your app to log to standard out.
 
-[![Build Status](https://travis-ci.org/heroku/rails_stdout_logging.png?branch=master)](https://travis-ci.org/heroku/rails_stdout_logging)
+[![Build Status](https://travis-ci.org/paulrnash/rails_stdout_logging.png?branch=master)](https://travis-ci.org/paulrnash/rails_stdout_logging)
 
 Supports:
 
